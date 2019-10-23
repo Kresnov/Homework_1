@@ -1,4 +1,3 @@
-# Git. README.md (пример)
 
 # NeuroStartUp
 
